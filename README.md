@@ -2,10 +2,6 @@
 
 This project visualizes real-time earthquake data provided by the USGS (United States Geological Survey) using **Leaflet.js** and **D3.js**. It is part of a data visualization challenge to better communicate the effects of seismic activity through interactive maps.
 
-## 🚀 Live Demo
-
-- 🔗 [Leaflet Part 1 Visualization](https://estortega.github.io/leaflet-challenge/Leaflet-Part-1/)
----
 
 ## 🔧 Technologies Used
 
