@@ -27,6 +27,6 @@ This project visualizes real-time earthquake data provided by the USGS (United S
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/leaflet-challenge.git
+   git clone https://github.com/estortega/leaflet-challenge.git
    cd leaflet-challenge
 Open Leaflet-Part-1/index.html in your browser to test locally.
